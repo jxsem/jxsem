@@ -11,7 +11,7 @@ Soy un desarrollador web que está comenzando en el mundo del desarrollo. Actual
 
 ## Mis Objetivos 🎯
 
-Mi objetivo es especializarme en el **desarrollo backend** con Java y, en el futuro, aprender **Node.js** para ampliar mis habilidades y conocimientos en el desarrollo de aplicaciones web.
+Mi objetivo es especializarme en el **desarrollo full-stack**, con un enfoque principal en React, para crear interfaces de usuario interactivas y dinámicas. A lo largo de mi aprendizaje, también quiero expandir mis conocimientos utilizando Astro, una herramienta moderna que permite construir sitios web rápidos y optimizados mediante el uso de componentes de diferentes frameworks. Y para adentrarme en backend y por fin lograr a ser full-stack, me iniciaré con Node.js, Express.js y MongoDB.
 
 ## 📊 Mis estadísticas en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

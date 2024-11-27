@@ -10,8 +10,7 @@ Soy un desarrollador web que está comenzando en el mundo del desarrollo. Actual
 | **Java**        | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40">        |
 
 ## Mis Objetivos 🎯
-
-Mi objetivo es especializarme en el **desarrollo frontend**, con un enfoque principal en React, para crear interfaces de usuario interactivas y dinámicas.
+Mi objetivo es especializarme en el **desarrollo full-stack**, con un enfoque principal en **JavaScript → React → TypeScript → Node.js → Node.js + TypeScript.**
 
 ## 📊 Mis estadísticas en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

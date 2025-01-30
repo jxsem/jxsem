@@ -11,7 +11,7 @@ Soy un desarrollador web que está comenzando en el mundo del desarrollo. Actual
 
 ## Mis Objetivos 🎯
 Mi objetivo es especializarme en el **desarrollo full-stack**, con un enfoque principal en: 
-**JavaScript → React → TypeScript → Node.js → Node.js + TypeScript.**
+**JavaScript → Angular → Java → BD SQL y noSQL → CI/CD Jenkins.**
 
 ## 📊 Mis estadísticas en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

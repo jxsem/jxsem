@@ -1,6 +1,6 @@
 # Hola, soy Jose Manuel 👋
 
-Soy un desarrollador web que está comenzando en el mundo del desarrollo. Actualmente, estoy aprendiendo lenguajes como:
+Soy un desarrollador web enfocado en full stack. Actualmente, mis lenguajes principales son:
 
 | Tecnología      | Imagen                                                                                     |
 |-----------------|--------------------------------------------------------------------------------------------|

@@ -7,11 +7,11 @@ Soy un desarrollador web enfocado en full stack. Actualmente, mis lenguajes prin
 | **HTML5**       | <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40">    |
 | **CSS**         | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40">        |
 | **JavaScript**  | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"> |
-| **Java**        | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40">        |
+
 
 ## Mis Objetivos 🎯
 Mi objetivo es especializarme en el **desarrollo full-stack**, con un enfoque principal en: 
-**JavaScript → Angular → Java → BD SQL y noSQL → CI/CD Jenkins.**
+**JavaScript → Angular → React → Nodejs → Docker.**
 
 ## 📊 Mis estadísticas en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

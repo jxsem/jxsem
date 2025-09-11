@@ -11,7 +11,7 @@ Soy un desarrollador web enfocado en full stack. Actualmente, mis lenguajes prin
 
 ## Mis Objetivos 🎯
 Mi objetivo es especializarme en el **desarrollo full-stack**, con un enfoque principal en: 
-**JavaScript → Angular → React → Nodejs → Docker.**
+**JavaScript → React → Angular → Nodejs → Docker.**
 
 ## 📊 Mis estadísticas en GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

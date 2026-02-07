@@ -1,42 +1,57 @@
-# Jose Manuel | Backend Developer 👋
-
-Desarrollador enfocado en la construcción de sistemas robustos y escalables. Especializado en el ecosistema **Java 21** y la arquitectura de servicios mediante **Docker**.
-
----
-
-### 🛠️ Technical Stack & Expertise
-
-| Capa | Tecnologías (Estándares) | Frameworks & Tools |
-| :--- | :--- | :--- |
-| **Backend** | <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png" width="16"/> **Java 21 (LTS)** | **Spring Boot 3.x** |
-| **Data Layer** | <img src="https://img.icons8.com/color/24/000000/database.png" width="16"/> **JPA / Hibernate** | **Spring Data JPA** |
-| **Infra** | <img src="https://img.icons8.com/color/24/000000/docker.png" width="16"/> **Docker** | **Docker Compose / Nginx** |
-| **DB** | <img src="https://img.icons8.com/color/24/000000/mysql-logo.png" width="16"/> **MySQL / MariaDB** | **Workbench / DBeaver** |
+<div align="center">
+  <h1>Jose Manuel | Backend Developer 👋</h1>
+  <p>Construyendo sistemas robustos con <b>Java 21</b> y orquestando infraestructuras con <b>Docker</b>.</p>
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Stack Tecnológico
 
-#### 🛒 [Supermarket E-commerce API](https://github.com/jxsem)
-* **Core:** Implementación de lógica de negocio en **Java 21** con persistencia avanzada.
-* **Arquitectura:** Diseño de API RESTful documentada y escalable.
-* **Data:** Gestión de relaciones complejas mediante **JPA**.
-
-#### 🐳 [Docker Infrastructure Deployment](https://github.com/jxsem)
-* **Core:** Orquestación de microservicios con **Docker Compose**.
-* **Networking:** Configuración de **Nginx** como servidor de entrada para entornos LEMP.
+| Tecnología | Categoría | Especialización |
+| :--- | :---: | :--- |
+| <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/> **Java 21** | **Lenguaje** | Streams API, Programación Funcional y Multithreading. |
+| <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="30"/> **Spring Boot 3** | **Framework** | Desarrollo de APIs RESTful, Spring Security y Data JPA. |
+| <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> **Docker** | **Infra** | Contenedores aislados y orquestación con Docker Compose. |
+| <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> **MySQL** | **Database** | Modelado relacional, optimización de queries y persistencia. |
+| <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" width="30"/> **JavaScript** | **Front-end** | Lógica de cliente y consumo de microservicios. |
 
 ---
 
-### 📊 Core Stats (Reliable Source)
+### 🚀 Proyectos Destacados
+
+> [!TIP]
+> **Supermarket E-commerce API**
+> Desarrollo integral de un motor de comercio electrónico utilizando **Java 21** y **Spring Boot**. Enfoque en arquitectura limpia y gestión eficiente de la persistencia con JPA.
+
+
+> [!IMPORTANT]
+> **Resource Optimization Engine (Schedule Automator)**
+> Desarrollo de un algoritmo en **Vanilla Javascript** para la generación automatizada de horarios laborales. 
+> * **Lógica:** Resolución de restricciones complejas (cuotas horarias, descansos legales y disponibilidad).
+> * **Integración:** Implementación de persistencia y gestión de datos mediante la API de Google Sheets como base de datos ligera.
+
+
+> [!IMPORTANT]
+> **Docker Infrastructure Deployment**
+> Implementación de infraestructura escalable mediante contenedores. Configuración de **Nginx** como proxy inverso y gestión de bases de datos MariaDB para entornos LEMP.
+
+---
+
+### 📈 Perfil Profesional
+
+* 🔭 Actualmente trabajando en: **Optimización de servicios Backend**.
+* 🌱 Aprendiendo: **Arquitectura de Microservicios y Cloud Computing**.
+* 💬 Pregúntame sobre: **Java 21, Spring y por qué Docker es indispensable**.
+
+---
+
+### 📬 Conecta conmigo
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e96443&icon_color=904e95" width="400" />
+  <a href="[https://www.linkedin.com/in/jose-manuel-soldado-jim%C3%A9nez-364a4b252/](https://www.linkedin.com/in/jose-manuel-soldado-jiménez-96b9ba381/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:josemanuel.soldado@outlook.es">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-> **Nota de Arquitectura:** He optimizado mi perfil para mostrar exclusivamente métricas de desarrollo de sistemas, priorizando Java y lógica de servidor sobre el maquetado estático.
-
----
-
-### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-manuel-soldado-jim%C3%A9nez-364a4b252/)

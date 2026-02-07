@@ -13,7 +13,7 @@
 | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="30"/> **Spring Boot 3** | **Framework** | Desarrollo de APIs RESTful, Spring Security y Data JPA. |
 | <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> **Docker** | **Infra** | Contenedores aislados y orquestación con Docker Compose. |
 | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> **MySQL** | **Database** | Modelado relacional, optimización de queries y persistencia. |
-| <img src="https://img.icons8.com/color/48/000000/javascript-logo.png" width="30"/> **JavaScript** | **Front-end** | Lógica de cliente y consumo de microservicios. |
+| <img src="[https://img.icons8.com/color/48/000000/javascript-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79q7o7OOV8U4bykmiB9-sdRyxzNWEs5BJ6WZ-lC2nDhOKaZbSIGQnx7y7rkIF)" width="30"/> **JavaScript** | **Front-end** | Lógica de cliente y consumo de microservicios. |
 
 ---
 

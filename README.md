@@ -20,14 +20,11 @@ Soy un **Desarrollador Backend** apasionado por la eficiencia, la escalabilidad 
 Mi meta es evolucionar hacia la **Arquitectura Cloud**, especializándome en:
 **Spring Security → Microservicios → AWS → Kubernetes.**
 
-## 📊 Actividad en GitHub
-
-![Resumen de actividad](https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&rank_icon=github&display_format=v2)
-
-## 🏆 Lenguajes más usados
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsem&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
-</p>
+## 📊 Métricas y Stack
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen?style=for-the-badge&logo=spring)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Status](https://img.shields.io/badge/Backend-Focused-red?style=for-the-badge)
 
 ## Conéctate conmigo 📫
 

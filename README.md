@@ -21,10 +21,11 @@ Mi meta es evolucionar hacia la **Arquitectura Cloud**, especializándome en:
 **Spring Security → Microservicios → AWS → Kubernetes.**
 
 ## 📊 Mis estadísticas en GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jxsem&theme=radical)
+
+![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=jxsem&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ## 🏆 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxsem&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=jxsem&layout=compact&theme=radical)
 
 ## Conéctate conmigo 📫
 

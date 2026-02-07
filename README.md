@@ -1,35 +1,45 @@
-# Hola, soy Jose Manuel 👋
+# Jose Manuel | Backend Developer 👋
 
-Soy un **Desarrollador Backend** apasionado por la eficiencia, la escalabilidad y la arquitectura de sistemas. Mi enfoque principal es el ecosistema de **Java** y la optimización de infraestructuras mediante **Docker**.
+Desarrollador enfocado en la construcción de sistemas robustos, escalables y eficientes. Especializado en el ecosistema de **Java** y la orquestación de servicios con **Docker**. Mi objetivo es transformar requisitos complejos en APIs limpias y mantenibles.
 
-### 🛠️ Tecnologías Principales (Backend Focus)
+---
 
-| Tecnología | Logo | Especialización |
-| :--- | :---: | :--- |
-| **Java 21** | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="35"/> | Desarrollo de APIs REST de alto rendimiento. |
-| **Spring Boot 3** | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="35"/> | Persistencia con JPA, seguridad y lógica de negocio. |
-| **Docker** | <img src="https://img.icons8.com/color/48/000000/docker.png" width="35"/> | Orquestación de contenedores y despliegue LEMP. |
-| **JavaScript** | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35"/> | Integración de frontend con servicios API. |
-| **HTML5 / CSS3** | <img src="https://img.icons8.com/color/48/000000/html-5.png" width="35"/> | Maquetación orientada a la experiencia de usuario. |
+### 🛠️ Core Stack & Expertise
 
-## Proyectos Destacados 🚀
-* **E-commerce Full-stack:** Una implementación sólida con **Java 21** y **Spring Boot** que gestiona un catálogo de supermercado con persistencia real.
-* **Infrastructure Orchestration:** Despliegue automatizado de entornos completos (Nginx + PHP + MariaDB) usando **Docker Compose**.
+| Backend & Logic | Infrastructure & Data | Frontend (Support) |
+| :--- | :--- | :--- |
+| **Java 21** (LTS) | **Docker** & Docker Compose | **JavaScript** (ES6+) |
+| **Spring Boot 3.x** | **MySQL / MariaDB** | **HTML5 / CSS3** |
+| **Spring Data JPA** | **RESTful APIs** | **API Integration** |
 
-## Mis Objetivos 🎯
-Mi meta es evolucionar hacia la **Arquitectura Cloud**, especializándome en:
-**Spring Security → Microservicios → AWS → Kubernetes.**
+---
 
-## 📊 Actividad y Métricas Backend
+### 🚀 Featured Projects
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=jxsem&theme=radical&bg_color=30,e96443&color=fff&line=904e95&point=fff&area=true&hide_border=true)
+#### 🛒 [Supermarket E-commerce API](https://github.com/jxsem)
+* **Tecnologías:** Java 21, Spring Boot, Spring Data, MySQL.
+* **Lo que demuestra:** Gestión de lógica de negocio compleja, persistencia de datos relacionales y diseño de endpoints REST profesionales.
+* **Frontend:** Interfaz dinámica en Vanilla JS para la gestión de carrito y checkout.
 
-## 🏆 Lenguajes más usados
-![Lenguajes más usados](https://raw.githubusercontent.com/jxsem/jxsem/main/profile-summary-card-output/radical/0-most-used-langs.svg)
+#### 🐳 [Docker Infrastructure Deployment](https://github.com/jxsem)
+* **Tecnologías:** Docker, Nginx, MariaDB, PHP.
+* **Lo que demuestra:** Capacidad para orquestar entornos de desarrollo y producción consistentes mediante contenedores, garantizando la portabilidad del software.
 
-## Conéctate conmigo 📫
+---
 
-Si buscas un desarrollador enfocado en soluciones de servidor robustas o quieres colaborar en proyectos de backend, ¡hablemos!
+### 📊 Engineering Metrics
 
-- <a href="https://www.linkedin.com/in/jose-manuel-soldado-jiménez-96b9ba381/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jxsem&show_icons=true&theme=radical&hide_border=true&title_color=e96443&icon_color=904e95&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxsem&layout=compact&theme=radical&hide=html,css,scss&hide_border=true&title_color=e96443&icon_color=904e95&bg_color=0D1117" alt="Top Langs" width="48%" />
+</p>
 
+> **Nota:** He configurado las estadísticas para priorizar mis lenguajes de backend, ocultando el marcado estático para reflejar mi verdadera especialización.
+
+---
+
+### 🎯 Next Steps
+Actualmente profundizando en: **Arquitectura de Microservicios**, **Spring Security** y **Cloud Deployment (AWS)**.
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jose-manuel-soldado-jim%C3%A9nez-364a4b252/)

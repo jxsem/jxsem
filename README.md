@@ -13,7 +13,7 @@
 | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="30"/> **Spring Boot 3** | **Framework** | Desarrollo de APIs RESTful, Spring Security y Data JPA. |
 | <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> **Docker** | **Infra** | Contenedores aislados y orquestación con Docker Compose. |
 | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> **MySQL** | **Database** | Modelado relacional, optimización de queries y persistencia. |
-| <img src="[https://img.icons8.com/color/48/000000/javascript-logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79q7o7OOV8U4bykmiB9-sdRyxzNWEs5BJ6WZ-lC2nDhOKaZbSIGQnx7y7rkIF)" width="30"/> **JavaScript** | **Front-end** | Lógica de cliente y consumo de microservicios. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> **JavaScript** | **Front-end** | Lógica de cliente y consumo de microservicios. |
 
 ---
 
@@ -23,13 +23,11 @@
 > **Supermarket E-commerce API**
 > Desarrollo integral de un motor de comercio electrónico utilizando **Java 21** y **Spring Boot**. Enfoque en arquitectura limpia y gestión eficiente de la persistencia con JPA.
 
-
 > [!IMPORTANT]
 > **Resource Optimization Engine (Schedule Automator)**
 > Desarrollo de un algoritmo en **Vanilla Javascript** para la generación automatizada de horarios laborales. 
 > * **Lógica:** Resolución de restricciones complejas (cuotas horarias, descansos legales y disponibilidad).
-> * **Integración:** Implementación de persistencia y gestión de datos mediante la API de Google Sheets como base de datos ligera.
-
+> * **Integración:** Gestión de persistencia y datos mediante la API de Google Sheets como base de datos ligera.
 
 > [!IMPORTANT]
 > **Docker Infrastructure Deployment**
@@ -48,7 +46,7 @@
 ### 📬 Conecta conmigo
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/jose-manuel-soldado-jim%C3%A9nez-364a4b252/](https://www.linkedin.com/in/jose-manuel-soldado-jiménez-96b9ba381/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-manuel-soldado-jim%C3%A9nez-364a4b252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:josemanuel.soldado@outlook.es">

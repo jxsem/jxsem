@@ -11,7 +11,7 @@
 | :--- | :---: | :--- |
 | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30"/> **Java 21** | **Lenguaje** | Streams API, Programación Funcional y Multithreading. |
 | <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="30"/> **Spring Boot 3** | **Framework** | Desarrollo de APIs RESTful, Spring Security y Data JPA. |
-| <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> **Docker** | **Infra** | Contenedores aislados y orquestación con Docker Compose. |
+| <img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/> **Docker** | **Infraestructura** | Contenedores aislados y orquestación con Docker Compose. |
 | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/> **MySQL** | **Database** | Modelado relacional, optimización de queries y persistencia. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> **JavaScript** | **Front-end** | Lógica de cliente y consumo de microservicios. |
 

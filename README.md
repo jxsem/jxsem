@@ -25,7 +25,7 @@ Mi meta es evolucionar hacia la **Arquitectura Cloud**, especializándome en:
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=jxsem&theme=radical&bg_color=30,e96443&color=fff&line=904e95&point=fff&area=true&hide_border=true)
 
 ## 🏆 Lenguajes más usados
-![Top Langs]([https://github-profile-summary-cards.vercel.app/api/cards/most-used-langs?username=jxsem&theme=radical](https://raw.githubusercontent.com/jxsem/jxsem/main/profile-summary-card-output/radical/0-most-used-langs.svg))
+![Lenguajes más usados](https://raw.githubusercontent.com/jxsem/jxsem/main/profile-summary-card-output/radical/0-most-used-langs.svg)
 
 ## Conéctate conmigo 📫
 

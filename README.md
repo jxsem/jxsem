@@ -19,7 +19,7 @@
 
 ### 🚀 Proyectos Destacados
 
-> [!TIP]
+> [!IMPORTANT]
 > **Supermarket E-commerce API**
 > Desarrollo integral de un motor de comercio electrónico utilizando **Java 21** y **Spring Boot**. Enfoque en arquitectura limpia y gestión eficiente de la persistencia con JPA.
 

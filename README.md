@@ -32,11 +32,29 @@
 
 ---
 
+### 🚀 Proyectos Destacados
+
+> [!IMPORTANT]
+> **Supermarket E-commerce API**
+> [cite_start]Desarrollo integral de un motor de comercio electrónico utilizando **PHP** y **Laravel**[cite: 53, 54]. Enfoque en arquitectura limpia y gestión eficiente de la persistencia de datos.
+
+> [!IMPORTANT]
+> **Resource Optimization Engine (Schedule Automator)**
+> [cite_start]Desarrollo de un algoritmo en **Vanilla Javascript** para la generación automatizada de horarios laborales[cite: 48].
+> [cite_start]* **Lógica:** Resolución de restricciones complejas como cuotas horarias y descansos legales[cite: 50].
+> * **Integración:** Gestión de datos mediante la API de Google Sheets como base de datos ligera[cite: 51].
+
+> [!IMPORTANT]
+> **Docker Infrastructure Deployment**
+> [cite_start]Implementación de infraestructura escalable mediante contenedores[cite: 54]. Configuración de **Nginx** como proxy inverso y gestión de bases de datos MariaDB para entornos LEMP.
+
+---
+
 ### 📈 Perfil Profesional
 
-* [cite_start]🔭 **Enfoque actual**: Desarrollo de soluciones técnicas que reducen riesgos operativos y mejoran la integridad de datos[cite: 4, 5].
-* [cite_start]🌱 **Especialización**: Implementación de interfaces reactivas y sistemas de monitorización en tiempo real[cite: 4, 5].
-* [cite_start]💬 **Habilidades clave**: Ciclo de vida completo del software bajo metodologías ágiles y calidad de código mediante Git[cite: 4, 5].
+**Enfoque actual:** Desarrollo de soluciones técnicas que reducen riesgos operativos y mejoran la integridad de los datos.
+**Especialización:** Implementación de interfaces reactivas y sistemas de monitorización en tiempo real.
+**Habilidades clave:** Ciclo de vida completo del software bajo metodologías ágiles y calidad de código.
 
 ---
 

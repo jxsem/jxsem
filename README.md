@@ -11,7 +11,7 @@
 | :--- | :---: | :--- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="25"/> **Laravel** | **Framework Backend** | APIs RESTful, Eloquent ORM y Seguridad (Sanctum/Auth). |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25"/> **PHP** | **Backend** | Lógica de negocio, Programación Orientada a Objetos y MVC. |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** | **Frontend** | ES6+, Page Visibility API y manipulación avanzada del DOM. |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** | **Frontend** | ES6+ y manipulación avanzada del DOM. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25"/> **Docker** | **Infraestructura** | Contenerización de entornos LEMP y Docker Compose. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25"/> **MySQL** | **Database** | Modelado relacional, optimización de queries e integridad. |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25"/> **Sistemas** | **Sistemas** | Administración de servidores y despliegues en entornos Linux. |

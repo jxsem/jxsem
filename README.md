@@ -12,4 +12,4 @@ I'm a Software & Systems Engineer focusing on robust enterprise backends, relati
 
 ## 📬 Connectivity
 * Secure Enterprise Mail: `contacto@soldado.dev`
-* LinkedIn: [linkedin.com/in/tu-usuario](www.linkedin.com/in/jose-manuel-soldado-jimenez)
+* LinkedIn: [www.linkedin.com/in/jose-manuel-soldado-jimenez](www.linkedin.com/in/jose-manuel-soldado-jimenez)

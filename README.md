@@ -4,7 +4,7 @@ I'm a Software & Systems Engineer focusing on robust enterprise backends, relati
 
 ## 🛠️ Sandbox & Lab
 * **Personal Server:** I host and manage my own services at `https://soldado.dev`
-* **Current Stack:** Enterprise Java (Spring Boot) + Angular web micro-services, fully dockerized and deployed on a Linux VPS.
+* **Current Stack:** Enterprise Java (Spring Boot) and learning Angular web micro-services, fully dockerized and deployed on a Linux VPS.
 
 ## 📁 Featured Repositories
 * [opo-test-backend](https://github.com/_USUARIO_DE_GITHUB/opo-test-backend): A high-concurrency REST API built with Java, Spring Boot, and JPA for exam simulation. Includes custom Docker multi-stage builds.

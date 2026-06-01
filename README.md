@@ -1,6 +1,6 @@
 # Hi there, I'm Jose Manuel.
 
-I'm a Software & Systems Engineer focusing on robust enterprise backends, relational databases, and infrastructure.
+I'm a Software & Systems Developer focusing on robust enterprise backends, relational databases, and infrastructure.
 
 ## 🛠️ Sandbox & Lab
 * **Personal Server:** I host and manage my own services at `https://soldado.dev`

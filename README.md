@@ -12,5 +12,5 @@ I'm a Software & Systems Developer focusing on robust enterprise backends, relat
 * [opo-test-db](https://github.com/jxsem/opo-test-db): Designed relational schema with normalized models, complex SQL queries, and performance-tuned indexing strategies using PostgreSQL.
 
 ## 📬 Connectivity
-* Secure Enterprise Mail: `contacto@soldado.dev`
+* Secure Enterprise Mail: `josemanuel.soldado@outlook.es`
 * LinkedIn: [linkedin.com/in/jose-manuel-soldado-jimenez](https://www.linkedin.com/in/jose-manuel-soldado-jimenez)

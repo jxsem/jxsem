@@ -4,11 +4,11 @@ I'm a Software & Systems Developer focusing on robust enterprise backends, relat
 
 ## 🛠️ Sandbox & Lab
 * **Personal Server:** I host and manage my own services at `https://soldado.dev`
-* **Current Stack:** Java (Spring Boot) and learning Angular web micro-services, fully dockerized and deployed on a Linux VPS.
+* **Current Stack:** Python, Django and learning React.
 
 ## 📁 Featured Repositories
-* [ocean-dive](https://github.com/jxsem/oceandive): Built a scuba diving application that provides real-time environmental conditions such as water quality, chlorophyll levels, wind, and tide data to support dive planning and safety decisions.
-* [hospital-db](https://github.com/jxsem/opo-test-db): Designed relational schema with normalized models, complex SQL queries, and performance-tuned indexing strategies using PostgreSQL.
+* [marketlens](https://github.com/jxsem/marketlens): Built a scuba diving application that provides real-time environmental conditions such as water quality, chlorophyll levels, wind, and tide data to support dive planning and safety decisions.
+* [hospital-db](https://github.com/jxsem/markethub): Designed relational schema with normalized models, complex SQL queries, and performance-tuned indexing strategies using PostgreSQL.
 
 ## 📬 Connectivity
 * Secure Enterprise Mail: `josemanuel.soldado@outlook.es`

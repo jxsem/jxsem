@@ -10,5 +10,5 @@ I'm a Software & Systems Developer focusing on robust enterprise backends, relat
 * [simsinatic](https://github.com/jxsem/marketlens): Built an earthquake application that provides real-time properties, ubication. 
 
 ## 📬 Connectivity
-* Secure Enterprise Mail: `josemanuel.soldado@outlook.es`
+* Secure Mail: `josemanuel.soldado@outlook.es`
 * LinkedIn: [linkedin.com/in/jose-manuel-soldado-jimenez](https://www.linkedin.com/in/jose-manuel-soldado-jimenez)

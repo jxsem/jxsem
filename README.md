@@ -7,7 +7,7 @@ I'm a Software & Systems Developer focusing on robust enterprise backends, relat
 * **Current Stack:** Python, FastAPI and React.
 
 ## 📁 Featured Repositories
-* [simsinatic](https://github.com/jxsem/marketlens): Built an earthquake application that provides real-time properties, ubication. 
+* [simsinatic](https://github.com/jxsem/marketlens): Built an earthquake application that provides real-time properties (probabilty tsunami, coordinates, depth, place). 
 
 ## 📬 Connectivity
 * Secure Mail: `josemanuel.soldado@outlook.es`

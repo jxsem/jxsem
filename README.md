@@ -7,7 +7,7 @@ I'm a Software Developer focusing on robust enterprise backends, relational data
 * **Current Stack:** Python, FastAPI and React.
 
 ## 📁 Featured Repositories
-
+* TPV Comercio: [https://github.com/jxsem/tpvcomercio]: Point of sale for retail, with real-world business rules.
 ## 📬 Connectivity
 * Secure Mail: `josemanuel.soldado@outlook.es`
 * LinkedIn: [linkedin.com/in/jose-manuel-soldado-jimenez](https://www.linkedin.com/in/jose-manuel-soldado-jimenez)
